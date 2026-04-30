@@ -8,7 +8,6 @@ A personal, command-first reference for the **Certified Penetration Testing Spec
 
 > **Use only against systems you have explicit written authorization to test.** This is a study and engagement reference; misuse against unauthorized targets is illegal in most jurisdictions.
 
-
 ## Quick navigation
 
 ### By engagement phase
@@ -50,17 +49,6 @@ A personal, command-first reference for the **Certified Penetration Testing Spec
 - Code blocks are tagged with the language they should be executed in (`bash`, `cmd`, `powershell`, `sql`, etc.).
 - Sources are listed at the bottom of every module file.
 - Cross-references between modules are relative links.
-
-## How to use this
-
-- **As reference during a box**: `Ctrl+F` from this README to your target topic, then jump.
-- **As exam prep**: read modules 01-09 once for vocabulary, then drill 10-35 by phase. Re-derive the commands without looking — recall is what matters in the exam.
-- **As an evolving notebook**: clone, add your own commands as you find them, commit.
-
-```bash
-git clone https://github.com/<your-username>/CPTS-Cheatsheet.git
-cd CPTS-Cheatsheet
-```
 
 ## Sourcing & licensing
 
